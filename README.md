@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gazi Taoshif</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Computer Science & Engineering student from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taoshif1&label=Profile%20views&color=0e75b6&style=flat" alt="taoshif1" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying in **CSE**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Java & Electric Circuit course**
 
 - 🤝 I’m looking for help in **problem solving**
 
-- 💬 Ask me about **C, C++, Java, JS.**
+- 💬 Ask me about **C, C++, Python, Bootstrap, Java, JS.**
 
 - 📫 How to reach me **taoshif2@gmail.com**
 
