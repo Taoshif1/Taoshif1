@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying in **CSE**
 
-- 🌱 I’m currently learning **Java & Electric Circuit course**
+- 🌱 I’m currently learning **DATA Structure, Quantum Physics & Linear Algebra**
 
-- 🤝 I’m looking for help in **problem solving**
+- 🤝 I’m looking for help in **CP, Problem solving & DevOps**
 
-- 💬 Ask me about **C, C++, Python, Bootstrap, Java, JS.**
+- 💬 Ask me about **C, C++, Python, Bootstrap, Java, JS, HTML, CSS.**
 
 - 📫 How to reach me **taoshif2@gmail.com**
 
