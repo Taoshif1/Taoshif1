@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in **CSE**
 
-- 🌱 I’m currently learning **DATA Structure, Quantum Physics & Linear Algebra**
+- 🌱 I’m learning **DATA Structure, Quantum Physics & Linear Algebra**
 
 - 🤝 I’m looking for help in **CP, Problem solving & DevOps**
 
