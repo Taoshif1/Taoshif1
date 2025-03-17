@@ -9,7 +9,7 @@
 
 - 🌱 I’m learning **DATA Structure, Quantum Physics & Linear Algebra**
 
-- 🤝 I’m looking for help in **CP, Problem solving & DevOps**
+- 🤝 I’m looking for help in **MERN stack, CP, Problem solving & DevOps**
 
 - 💬 Ask me about **C, C++, Python, Bootstrap, Java, JS, HTML, CSS.**
 
