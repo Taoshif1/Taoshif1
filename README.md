@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoshif1" alt="taoshif1" /></a> </p>
 
-- 🔭 I’m currently studying B.Sc in **CSE**
+- 🔭 I’m currently studying ** B.Sc. in Computer Science and Engineering (CSE) **
 
 - 🌱 I’m learning **DATA Structure, Quantum Physics & Linear Algebra**
 
-- 🤝 I’m looking for help in **MERN stack, CP & DevOps**
+- 🤝 I’m looking for help in **MERN stack, hackathon, CP, CTF  & DevOps**
 
 - 💬 Ask me about **C, C++, Python, Bootstrap, Java, JS, HTML, CSS.**
 
