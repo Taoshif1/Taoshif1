@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoshif1" alt="taoshif1" /></a> </p>
 
-- 🔭 I’m currently studying in **CSE**
+- 🔭 I’m currently studying B.Sc in **CSE**
 
 - 🌱 I’m learning **DATA Structure, Quantum Physics & Linear Algebra**
 
