@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **B.Sc. in Computer Science and Engineering (CSE)**
 
-- 🌱 I’m learning **DATA Structure, Quantum Physics & Linear Algebra**
+- 🌱 I’m learning **MERN, DATA Structure, Quantum Physics & Linear Algebra**
 
 - 🤝 I’m looking for help in **MERN stack, hackathon, CP, CTF  & DevOps**
 
