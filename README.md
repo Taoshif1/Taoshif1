@@ -1,8 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://your-banner-url.com/banner.jpg" alt="Banner" width="100%" />
-![Gemini_Generated_Image_mo9kztmo9kztmo9k](https://github.com/user-attachments/assets/ccaa3a7a-5161-4420-9bf3-ef47b716c6cd)
-
+  <img src="https://raw.githubusercontent.com/taoshif1/taoshif1/main/assets/banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello Guys 👋, I'm Gazi Taoshif</h1>
@@ -27,6 +25,13 @@
 - 🤝 Open to collaborate in **MERN, Hackathons, CP, CTF, DevOps**
 - 💬 Ask me about **C, C++, Python, Bootstrap, Java, JS, HTML, CSS**
 - 📫 Reach me at **taoshif2@gmail.com**
+
+---
+
+### 🌐 My Portfolio
+
+🚀 Check out my personal portfolio:  
+👉 [taoshif1.github.io/AI-Portfolio](https://taoshif1.github.io/AI-Portfolio/)
 
 ---
 
@@ -57,6 +62,21 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
+  </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
   </a>
@@ -91,16 +111,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Full Width)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taoshif1&show_icons=true&locale=en&layout=compact" alt="taoshif1" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=donut&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&locale=en&theme=radical&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&locale=en" alt="taoshif1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taoshif1" alt="taoshif1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taoshif1&theme=radical&hide_border=false" width="96%" />
 </p>
