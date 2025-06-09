@@ -37,10 +37,10 @@
 
 ### 📲 Connect With Me
 <p align="left">
-  <a href="[https://linkedin.com/in/gazi taoshif](https://www.linkedin.com/in/taoshif1/)" target="_blank">
+  <a href="https://www.linkedin.com/in/taoshif1/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="[https://fb.com/taoshif gazi](https://www.facebook.com/TaoshifG/)" target="_blank">
+  <a href="https://www.facebook.com/TaoshifG" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/taoshiflex" target="_blank">
