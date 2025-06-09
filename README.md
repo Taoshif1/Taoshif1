@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[Gemini_Generated_Image_mo9kztmo9kztmo9k](https://github.com/user-attachments/assets/ec69e85b-7c5a-449d-bf25-e4123f73275b)
-com/banner.jpg" alt="Banner" width="100%" />
+  <img src="![Gemini_Generated_Image_mo9kztmo9kztmo9k](https://github.com/user-attachments/assets/52655fa4-4551-4e11-9732-6cea8dbc7be7)
+" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello Guys 👋, I'm Gazi Taoshif</h1>
