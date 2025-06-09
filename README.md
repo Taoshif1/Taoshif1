@@ -114,7 +114,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=donut&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=donut&theme=radical&hide_border=false&langs_count=10" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&locale=en&theme=radical&hide_border=false" width="48%" />
 </p>
 
