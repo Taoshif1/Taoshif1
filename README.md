@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/taoshif1/taoshif1/main/assets/banner.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/taoshif1/taoshif1/main/assets/banner1.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello Guys 👋, I'm Gazi Taoshif</h1>
