@@ -18,7 +18,7 @@
 
 ---
 
-### 🔥 About Me
+## 🔥 About Me
 
 - 🎓 Currently studying **B.Sc. in Computer Science and Engineering (CSE)**
 - 🌱 Learning **MERN Stack, Data Structures, Quantum Physics & Linear Algebra**
@@ -28,14 +28,14 @@
 
 ---
 
-### 🌐 My Portfolio
+## 🌐 My Portfolio
 
 🚀 Check out my personal portfolio:  
 👉 [taoshif1.github.io/AI-Portfolio](https://taoshif1.github.io/AI-Portfolio/)
 
 ---
 
-### 📲 Connect With Me
+## 📲 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/taoshif1/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -59,7 +59,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
@@ -111,7 +111,7 @@
 
 ---
 
-### 📊 GitHub Stats (Full Width)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=donut&theme=radical&hide_border=false" width="48%" />
