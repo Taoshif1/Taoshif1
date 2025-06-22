@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/taoshif1/taoshif1/main/assets/banner1.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hello Guyss 👋, I'm Gazi Taoshif</h1>
+<h1 align="center">Hello Guys 👋, I'm Gazi Taoshif</h1>
 <h3 align="center">A Passionate Computer Science & Engineering Student from Bangladesh</h3>
 
 <p align="center">
