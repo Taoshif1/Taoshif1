@@ -21,7 +21,7 @@
 ## 🔥 About Me
 
 - 🎓 Currently studying **B.Sc. in Computer Science and Engineering (CSE)**
-- 🌱 Learning **MERN Stack, Data structures and Algorithms & Database**
+- 🌱 Learning **MERN Stack, DSA & Database**
 - 🤝 Open to collaborate in **CTF & Hackathon**
 - 💬 Ask me about **C, C++, Python, Bootstrap, Java, JS, HTML, CSS**
 - 📫 Reach me at **taoshif2@gmail.com**
