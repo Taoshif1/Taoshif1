@@ -31,7 +31,7 @@
 ## 🌐 My Portfolio
 
 🚀 Check out my personal portfolio:  
-👉 [taoshif1.github.io/AI-Portfolio](https://taoshif1.github.io/AI-Portfolio/)
+👉 [Click Here](https://taoshif1.github.io/AI-Portfolio/)
 
 ---
 
