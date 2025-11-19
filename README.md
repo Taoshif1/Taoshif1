@@ -14,17 +14,21 @@
 
 ## 🔥 About Me
 
-I'm a passionate CSE student and full-stack developer who loves building real-life products and solving meaningful problems.
+I'm a passionate Computer Science student and full-stack developer who loves building real-life solutions, exploring new technologies, and working on projects that create real impact.
 
-- 🚀 Currently learning **MERN Stack, NEXT.JS & System Design**
+- 🚀 Currently learning **MERN Stack, Next.js, Redux, System Design**
 - 💼 Working on **professional projects under SCIC (EJP-Albatross)**
-- 🧠 Exploring **DSA, Clean Architecture & Software Engineering**
-- 🤝 Open for collaboration on **web apps, hackathons, CTF**
-- 📫 Reach me: **taoshif2@gmail.com**
+- 💡 Building projects for **business use-cases, automation & scaling**
+- 🧠 Learning **DSA, Clean Architecture, Database Design**
+- 🤝 Open to collaboration on **web apps, hackathons, CTF, and dev projects**
+- 🌱 Exploring **AI tools, automation, backend engineering**
+- 🎯 Goal 2025: Become a **solid MERN developer & launch my own startup**
+- 📫 Email: **taoshif2@gmail.com**
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/taoshif1/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35"></a>
   <a href="https://facebook.com/TaoshifG"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="35"></a>
@@ -42,7 +46,7 @@ I'm a passionate CSE student and full-stack developer who loves building real-li
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/>
   <img src="https://cdn.simpleicons.org/node.js/339933" height="40"/>
-  <img src="https://cdn.simpleicons.org/express/ffffff" height="40"/>
+  <img src="https://cdn.simpleicons.org/express/000000" height="40"/>
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40"/>
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40"/>
   <img src="https://cdn.simpleicons.org/java/007396" height="40"/>
@@ -50,7 +54,29 @@ I'm a passionate CSE student and full-stack developer who loves building real-li
   <img src="https://cdn.simpleicons.org/c/00599C" height="40"/>
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40"/>
   <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40"/>
+  <img src="https://cdn.simpleicons.org/vscode/007ACC" height="40"/>
 </p>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🌐 Full-stack web applications using MERN  
+- 🧩 SCIC Phase-2 projects with real-world architecture  
+- 📦 Backend APIs with authentication, role-based systems, and DB design  
+- ⚙ Automation tools using JavaScript & Python  
+- 🏗 Personal portfolio + business-oriented pages  
+
+---
+
+## 📚 What I'm Learning Next
+
+- 🔹 Next.js 15 & App Router  
+- 🔹 Advanced MongoDB (Indexes, Aggregation, Schema Design)  
+- 🔹 JWT, OAuth, secure authentication  
+- 🔹 TypeScript for scalable backend  
+- 🔹 DevOps basics (CI/CD, Docker)  
 
 ---
 
@@ -68,32 +94,9 @@ I'm a passionate CSE student and full-stack developer who loves building real-li
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
-## 📌 Pinned Projects
-
-### ➤ E-commerce Website  
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 Live: *Add link*  
-📝 Description: Full-featured MERN e-commerce platform with authentication, cart, payment & admin features.
-
----
-
-### ➤ AI Portfolio  
-**Tech:** HTML, CSS, JavaScript  
-🔗 Live: https://taoshif1.github.io/AI-Portfolio/  
-📝 Description: A modern AI-themed portfolio with animations & responsive layout.
-
----
-
-### ➤ Internet Management System (Java)  
-**Tech:** Java OOP  
-🔗 Live: *Add link if hosted*  
-📝 Description: Semester-final Java OOP project using file handling.
-
----
-
