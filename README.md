@@ -111,13 +111,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=donut&theme=radical&hide_border=false&langs_count=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&locale=en&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taoshif1&theme=radical&hide_border=false" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=taoshif1&theme=tokyonight&hide_border=false" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
