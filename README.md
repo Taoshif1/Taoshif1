@@ -67,9 +67,9 @@
 <a href="https://wa.me/8801760972307" target="_blank">
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="35" alt="WhatsApp" />
 </a>
-
-
-
+<a href="https://discord.com/users/gazitaoshif" target="_blank">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="35" alt="Discord" />
+</a>
 
 </p>
 
