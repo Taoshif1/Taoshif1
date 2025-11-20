@@ -65,11 +65,6 @@
 ## 🛠️ Tech Stack  
 <h2 align="center">⚡ Tech Stack (Neon Edition)</h2>
 
-<style>
-/* GitHub strips CSS, so adding this block won’t break anything */
-/* Neon effect handled through SVG filters */
-</style>
-
 <!-- Neon Filter -->
 <svg width="0" height="0">
   <defs>
@@ -139,7 +134,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" style="filter:url(#neon);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="filter:url(#neon);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" style="filter:url(#neon);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="filter:url(#neon);" />
 </p>
 
 
