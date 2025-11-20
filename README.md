@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE+Student+from+Bangladesh;Future+Software+Engineer;MERN+Stack+Developer;Java+%7C+C+%7C+Python+Programmer;Always+Learning+New+Things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE+Student+from+Bangladesh;Software+Engineer;MERN+Stack+Developer;Java+%7C+C+%7C+Python+Programmer;Always+Learning+New+Things+🚀">
 </p>
 
 <!-- Bio Line -->
@@ -21,7 +21,7 @@
 
 <!-- Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=dracula&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=dracula&column=6&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
@@ -51,7 +51,8 @@
 
 ## 🌍 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/taoshif1/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35"></a>
+  <a href="https://www.linkedin.com/in/taoshif1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="35" />
+</a>
   <a href="https://facebook.com/TaoshifG"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="35"></a>
   <a href="https://instagram.com/taoshiflex"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="35"></a>
   <a href="https://youtube.com/@taoshiflex"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="35"></a>
