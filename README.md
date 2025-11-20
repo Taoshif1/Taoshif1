@@ -41,7 +41,7 @@
 ---
 
 ## 🌐 Portfolio
-<p align="center">
+<p align="left">
   <a href="https://taoshif1.github.io/AI-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -50,9 +50,8 @@
 ---
 
 ## 🌍 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/taoshif1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="35" />
-</a>
+<p align="left">
+ <a href="https://www.linkedin.com/in/taoshif1/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" alt="LinkedIn" /></a>
   <a href="https://facebook.com/TaoshifG"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="35"></a>
   <a href="https://instagram.com/taoshiflex"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="35"></a>
   <a href="https://youtube.com/@taoshiflex"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="35"></a>
@@ -63,7 +62,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-<h2 align="center">⚡ Tech Stack (Neon Edition)</h2>
+<h2 align="left">⚡ Tech Stack (Neon Edition)</h2>
 
 <!-- Neon Filter -->
 <svg width="0" height="0">
@@ -136,6 +135,8 @@
   <img src="https://img.shields.io/badge/Render-0099FF?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
+<br>
+
 <!-- CATEGORY: Tools -->
 <h3 align="left">🧰 Tools & Platforms</h3>
 <p align="left">
@@ -147,7 +148,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
-
 
 ---
 
