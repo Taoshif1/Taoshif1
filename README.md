@@ -62,19 +62,6 @@
 ---
 
 ## 🛠️ Tech Stack  
-<h2 align="left">⚡ Tech Stack (Neon Edition)</h2>
-
-<!-- Neon Filter -->
-<svg width="0" height="0">
-  <defs>
-    <filter id="neon">
-      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#00eaff"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00eaff"/>
-    </filter>
-  </defs>
-</svg>
-
-<br>
 
 <!-- CATEGORY: Programming Languages -->
 <h3 align="left">💻 Programming Languages</h3>
