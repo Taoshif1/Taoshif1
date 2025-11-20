@@ -12,7 +12,7 @@
 </p>
 
 <!-- Bio Line -->
-<h3 align="center">Full-Stack Developer | MERN | Java | Python | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | Java | Python | Problem Solver</h3>
 
 <!-- Profile Counter -->
 <p align="center">
