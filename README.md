@@ -79,25 +79,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taoshif1&theme=tokyonight&hide_border=false"/>
-</p>
-
-<p align="center">
-  <!-- Moving Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&width=600&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;Innovation+Begins+With+Consistency;Code.+Build.+Repeat.">
 </p>
