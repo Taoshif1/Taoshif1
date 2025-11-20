@@ -80,22 +80,22 @@
 ---
 
 ## 📊 GitHub Analytics  
+
 <p align="center">
+  <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=taoshif1&theme=tokyonight&hide_border=false"/>
 </p>
 
----
-
-## 🐍 Contribution Snake  
 <p align="center">
+  <!-- Moving Snake Animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
 ---
 
 <p align="center">
