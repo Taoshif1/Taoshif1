@@ -129,7 +129,7 @@
 
 <!-- CATEGORY: Deployment & Servers -->
 <h3 align="left">🌐 Deployment & Servers</h3>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
