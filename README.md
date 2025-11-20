@@ -43,8 +43,8 @@
 ## 🌐 Portfolio
 <p align="left">
 <a href="https://taoshif1.github.io/AI-Portfolio/" target="_blank">
-<!-- UPDATED: Used striking Gold color and capitalized text for maximum visual impact -->
-<img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO_NOW-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit My Portfolio" />
+<!-- UPDATED: Pure White badge background with black text/logo -->
+<img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO_NOW-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit My Portfolio" />
 </a>
 </p>
 
