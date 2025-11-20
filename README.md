@@ -1,98 +1,103 @@
+<!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/taoshif1/taoshif1/main/assets/banner4.png" alt="TAOSHIFLEX Professional Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/taoshif1/taoshif1/main/assets/banner4.png" alt="Banner" width="100%" />
 </p>
 
+<!-- Title -->
+<h1 align="center">Hey, I'm Gazi Taoshif 👋</h1>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=6F3AFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gazi+Taoshif+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%7C+Next.js;SCIC+EJP-Albatross+Trainee;Building+Scalable%2C+Clean+Web+Applications" alt="Typing text effect">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE+Student+from+Bangladesh;Future+Software+Engineer;MERN+Stack+Developer;Java+%7C+C+%7C+Python+Programmer;Always+Learning+New+Things+🚀">
 </p>
 
-<h3 align="center">Full-Stack Development | Software Engineering | Dhaka, Bangladesh</h3>
+<!-- Bio Line -->
+<h3 align="center">Full-Stack Developer | MERN | Java | Python | Problem Solver</h3>
 
+<!-- Profile Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taoshif1&label=Profile%20Views&color=6F3AFF&style=flat" alt="taoshif1" />
+  <img src="https://komarev.com/ghpvc/?username=taoshif1&label=Profile+Views&color=6F3AFF&style=flat-square" />
 </p>
+
+<!-- Trophy -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&margin-w=15&theme=tokyonight" alt="taoshif1" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=dracula&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
 ## 🔥 About Me
-
-<p align="justify">
-  I am a dedicated Computer Science student and an aspiring **Full-Stack Developer** specializing in the **MERN** stack. I am passionately focused on building robust, high-performance web applications using modern JavaScript ecosystems. Currently, I am accelerating my professional readiness through the intensive **SCIC EJP-Albatross** early job placement program, targeting international industry standards in software engineering.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionate+Developer;Focused+on+MERN+Stack;Learning+OS+%26+System+Design;CTF+%26+Hackathon+Ready;Building+Projects+Daily">
 </p>
 
-- 💼 **Current Activity:** Actively implementing complex features for job-ready projects using **Next.js** and **TypeScript** under the EJP curriculum.
-- 🚀 **Learning:** Deep diving into **System Design, Clean Architecture,** and advanced **DSA** techniques for optimal code quality.
-- 💻 **Collaboration:** Open to professional collaboration on **MERN/Next.js-based web projects** and competitive programming events.
-- 📫 **Contact:** **taoshif2@gmail.com** | **Location:** Dhaka, Bangladesh
+- 🎓 CSE Student at **East West University**
+- 🌱 Learning **MERN Stack, OS, Electronic Circuits**
+- 💼 Working on professional projects under **SCIC (EJP-Albatross)**
+- 🤝 Open to collaborate on **hackathons, CTF, and web apps**
+- 💬 Ask me about **C, C++, Python, Java, JS, MERN, Bootstrap**
+- 📫 Reach me: **taoshif2@gmail.com**
 
 ---
 
-## 🌐 My Portfolio
-🚀 View my professional portfolio, highlighting key projects and skills:  
-👉 [Click Here](https://taoshif1.github.io/AI-Portfolio/)
+## 🌐 Portfolio
+<p align="center">
+  <a href="https://taoshif1.github.io/AI-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/taoshif1/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35"></a>
+  <a href="https://facebook.com/TaoshifG"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="35"></a>
+  <a href="https://instagram.com/taoshiflex"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="35"></a>
+  <a href="https://youtube.com/@taoshiflex"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="35"></a>
+  <a href="https://codeforces.com/profile/gazitaoshif"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="35"></a>
+  <a href="mailto:taoshif2@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="35"></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/>
+  <img src="https://cdn.simpleicons.org/node.js/339933" height="40"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+  <img src="https://cdn.simpleicons.org/java/007396" height="40"/>
+  <img src="https://cdn.simpleicons.org/c/00599C" height="40"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=taoshif1&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
 
-## 📲 Connect With Me (Professional Links Only)
-
+## 🐍 Contribution Snake  
 <p align="center">
-  <a href="https://www.linkedin.com/in/taoshif1/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" alt="LinkedIn"></a>
-  <a href="https://facebook.com/TaoshifG" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="35" alt="Facebook"></a>
-  <a href="https://youtube.com/@taoshiflex" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="35" alt="YouTube"></a>
-  <a href="https://codeforces.com/profile/gazitaoshif" target="_blank"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="35" alt="Codeforces"></a>
-  <a href="mailto:taoshif2@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="35" alt="Gmail"></a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="Gazi Taoshif GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" alt="Gazi Taoshif Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&width=600&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;Innovation+Begins+With+Consistency;Code.+Build.+Repeat.">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taoshif1&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 My Contribution Graph (Dynamic Snake Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/taoshif1/taoshif1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-Now that your front page is premium and compliant, the final and most critical step is ensuring your **Pinned Repositories** meet the required standard.
-
-Do you have the three repositories pinned? If so, tell me the name of one of your pinned repositories, and I will generate the **professional README template** for it.
