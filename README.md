@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">Hey, I'm Gazi Taoshif 👋</h1>
+<h1 align="center">Hey Guys, I'm Gazi Taoshif 👋</h1>
 
 <!-- Typing Animation -->
 <p align="center">
