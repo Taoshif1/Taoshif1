@@ -44,7 +44,7 @@
 <p align="left">
 <a href="https://taoshif1.github.io/webdevportfolio/" target="_blank">
 <!-- UPDATED: Pure White badge background with black text/logo -->
-<img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO_NOW-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit My Portfolio" />
+<img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO_NOW_🚀-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit My Portfolio" />
 </a>
 </p>
 
