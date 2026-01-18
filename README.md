@@ -11,6 +11,10 @@
 <h3 align="center">Full-Stack Developer | Java | Python | Problem Solver</h3>
 
 <p align="center">
+  ![Followers](https://img.shields.io/github/followers/taoshif1?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/taoshif1?style=for-the-badge&logo=github)
+![Public Repos](https://img.shields.io/badge/Public_Repos-Active-success?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=taoshif1&style=for-the-badge)
   <img src="https://komarev.com/ghpvc/?username=taoshif1&label=Profile+Views&color=6F3AFF&style=flat-square" />
 </p>
 
