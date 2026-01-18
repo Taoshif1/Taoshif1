@@ -10,10 +10,6 @@
 
 <h3 align="center">Full-Stack Developer | Java | Python | Problem Solver</h3>
 
----
-
-## 🏆 GitHub Highlights
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/taoshif1?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/taoshif1?style=for-the-badge&logo=github" />
