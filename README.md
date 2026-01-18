@@ -21,7 +21,9 @@
 
 <!-- Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ## 🔥 About Me
