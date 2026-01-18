@@ -52,7 +52,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/taoshif1/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="35" />
   </a>
   <a href="https://facebook.com/TaoshifG">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="35" />
