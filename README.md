@@ -14,10 +14,15 @@
   <img src="https://komarev.com/ghpvc/?username=taoshif1&label=Profile+Views&color=6F3AFF&style=flat-square" />
 </p>
 
+## 🏆 GitHub Highlights
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+
+![Followers](https://img.shields.io/github/followers/taoshif1?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/taoshif1?style=for-the-badge&logo=github)
+![Public Repos](https://img.shields.io/badge/Public_Repos-Active-success?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=taoshif1&style=for-the-badge)
+
 </p>
 
 ## 🔥 About Me
