@@ -51,19 +51,19 @@
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="35" />
   </a>
   <a href="https://facebook.com/TaoshifG">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="35" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="facebook" height="35" />
   </a>
   <a href="https://instagram.com/taoshiflex">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="35" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="instagram" height="35" />
   </a>
   <a href="https://youtube.com/@taoshiflex">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="35" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" height="35" />
   </a>
   <a href="https://leetcode.com/u/EZMhPJHIl6/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="35" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="leetcode" height="35" />
   </a>
   <a href="mailto:taoshif2@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="35" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="35" />
   </a>
 </p>
 
