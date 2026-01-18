@@ -19,6 +19,17 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" 
+    alt="GitHub Trophies" 
+  />
+</p>
+
+---
+
 ## 🔥 About Me
 
 <p align="left">
