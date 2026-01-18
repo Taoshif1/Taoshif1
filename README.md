@@ -63,8 +63,8 @@
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="leetcode" height="35" />
   </a>
   <a href="mailto:taoshif2@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="35" />
-  </a>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email Me" height="35" />
+</a>
 </p>
 
 ---
