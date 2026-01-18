@@ -23,7 +23,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" 
+    src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15" 
     alt="GitHub Trophies" 
   />
 </p>
@@ -158,7 +158,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Top Languages
 
 <p align="center">
   <img 
@@ -188,7 +188,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=taoshif1&theme=tokyo-night&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=taoshif1&theme=react-dark&hide_border=true&area=true" 
     alt="Contribution Graph" 
   />
 </p>
