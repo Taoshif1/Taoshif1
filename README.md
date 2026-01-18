@@ -21,9 +21,11 @@
 
 <!-- Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app" alt="taoshif1 trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=true&row=1&column=6" 
+    alt="GitHub Trophies" 
+  />
 </p>
----
 
 ## 🔥 About Me
 <p align="left">
