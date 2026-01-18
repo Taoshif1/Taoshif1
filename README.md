@@ -158,6 +158,43 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="180" 
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=taoshif1&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=taoshif1&theme=tokyo-night&hide_border=true&area=true" 
+    alt="Contribution Graph" 
+  />
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&width=600&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;Code.+Build.+Repeat." />
