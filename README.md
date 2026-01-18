@@ -21,9 +21,8 @@
 
 <!-- Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=dracula&column=6&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app" alt="taoshif1 trophies" />
 </p>
-
 ---
 
 ## 🔥 About Me
