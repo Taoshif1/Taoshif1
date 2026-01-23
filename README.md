@@ -23,7 +23,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15" 
+    alt="GitHub Trophies" 
   />
 </p>
 
