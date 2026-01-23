@@ -182,6 +182,10 @@
   />
 </p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nahiyankhan55&theme=tokyonight" height="180px"/>
+</div>
+
 ---
 
 ## 📈 Contribution Graph
