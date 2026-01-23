@@ -176,7 +176,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=taoshif1" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=taoshif1&theme=tokyonight&hide_border=true&border_radius=12" 
+  />
 </p>
 
 ---
