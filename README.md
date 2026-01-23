@@ -22,10 +22,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=taoshif1&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://img.shields.io/badge/GitHub-Achievements-ff69b4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-Consistent-4caf50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Active-1e90ff?style=for-the-badge" />
 </p>
 
 ---
