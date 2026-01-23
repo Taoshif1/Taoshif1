@@ -174,12 +174,9 @@
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com" alt="GitHub Streak" />
-</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nahiyankhan55&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=taoshif1&theme=tokyonight" height="180px"/>
 </div>
 
 ---
