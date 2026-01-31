@@ -19,16 +19,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Achievements-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-Consistent-4caf50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-Active-1e90ff?style=for-the-badge" />
-</p>
-
----
-
 ## 🔥 About Me
 
 <p align="left">
