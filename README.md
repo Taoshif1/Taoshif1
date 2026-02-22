@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/taoshif1/taoshif1/main/assets/banner4.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey Guy, I'm Gazi Taoshif 👋</h1>
+<h1 align="center">Hey Guys, I'm Gazi Taoshif 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE+Student+from+Bangladesh;Software+Engineer;MERN+Stack+Developer;Java+%7C+C+%7C+Python+Programmer;Always+Learning+New+Things+🚀" />
