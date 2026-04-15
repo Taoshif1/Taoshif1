@@ -60,7 +60,7 @@
   <a href="https://youtube.com/@taoshiflex">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" height="35" />
   </a>
-    <a href="https://discordapp.com/users/your_discord_id" target="_blank">
+    <a href="https://discordapp.com/users/gazitaoshif" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
   <a href="https://leetcode.com/u/EZMhPJHIl6/">
@@ -123,18 +123,16 @@
 
 ---
 
+
 ## 📊 GitHub Analytics & Top Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=taoshif1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-    width="48%" 
-    style="margin-right:4%;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    width="48%" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taoshif1&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=taoshif1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taoshif1&theme=tokyonight" width="48%" />
 </p>
 
 ---
