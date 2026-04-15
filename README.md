@@ -154,8 +154,6 @@
     alt="Contribution Graph" 
   />
 </p>
----
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&width=600&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;Code.+Build.+Repeat." />
