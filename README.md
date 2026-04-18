@@ -22,7 +22,7 @@
 ## 🔥 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionate+Developer;Focused+on+MERN+Stack;Learning+Computer+Architecture+%26+System+Design;CTF+%26+Hackathon+Ready;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionate+Developer;Focused+on+MERN+Stack;Learning+Computer+Architecture;CTF+%26+Hackathon+Ready;Building+Projects+Daily" />
 </p>
 
 - 🎓 CSE Student at **East West University**
