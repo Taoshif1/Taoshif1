@@ -27,8 +27,8 @@
 
 - 🎓 CSE Student at **East West University**
 - 🌱 Learning **MERN Stack, OS, System Design**
-- 💼 Working on professional projects under **SCIC (EJP-Albatross)**
-- 🤝 Open to collaborate on **hackathons, CTFs, and web apps**
+- 💼 Working on professional projects under **PH-SCIC (EJP-Albatross)**
+- 🤝 Open to collaborate on **hackathons, CTFs & web apps**
 - 💬 Ask me about **C, C++, Java, Python, JS, MERN**
 - 📫 Reach me: **taoshif2@gmail.com**
 
