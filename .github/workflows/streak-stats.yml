@@ -1,0 +1,43 @@
+name: Update GitHub streak stats
+
+on:
+  schedule:
+    - cron: "15 18 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: >-
+            user=Taoshif1&timezone=Asia%2FDhaka&mode=daily&disable_animations=false&background=0D1117&border=30363D&stroke=30363D&ring=B89055&fire=B89055&currStreakNum=F2EEE5&sideNums=F2EEE5&currStreakLabel=B89055&sideLabels=B8B2A7&dates=B8B2A7&border_radius=6
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+
+          if git diff --cached --quiet -- profile/streak.svg; then
+            echo "No streak update required."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub streak stats"
+          git push

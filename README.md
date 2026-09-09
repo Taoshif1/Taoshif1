@@ -55,6 +55,10 @@ I am a Computer Science and Engineering student at East West University in Bangl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taoshif1&amp;theme=github_dark" alt="Gazi Taoshif's GitHub contribution activity" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub contribution streak for Gazi Taoshif" />
+</p>
+
 ## Connect
 
 For engineering opportunities, project collaboration, or product work:
