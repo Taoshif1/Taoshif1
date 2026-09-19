@@ -7,7 +7,7 @@
 <p align="center"><strong>Software Engineer · Full-Stack Developer · Founder of Taoshiflex Studio</strong></p>
 
 <p align="center">
-  Building full-stack products, web platforms, and practical software systems.
+  Building full-stack products, web platforms and practical software systems.
 </p>
 
 <p align="center">
