@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.png" alt="Abstract network of cyan and violet paths on a dark technical grid" width="100%" />
 </p>
 
-<h1 align="center">Gazii Taoshif</h1>
+<h1 align="center">Gazi Taoshif</h1>
 
 <p align="center"><strong>Software Engineer · Full-Stack Developer · Founder of Taoshiflex Studio</strong></p>
 
