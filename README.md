@@ -52,7 +52,7 @@ I am a Computer Science and Engineering student at East West University in Bangl
 | Backend | `Node.js` `Express` `REST APIs` |
 | Data | `MongoDB` `PostgreSQL` `Supabase` |
 | Tools | `Git` `GitHub` `Vercel` `Postman` |
-| Programming background | `Java` `C` `C++` `Python` |
+| Programming background | `Java` `C` `C++` `Python` `PhP` |
 
 ## GitHub Activity
 
