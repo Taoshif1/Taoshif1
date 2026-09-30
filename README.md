@@ -32,7 +32,7 @@ I am a Computer Science and Engineering student at East West University in Bangl
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| **Taoshiflex Studio** | My web design and development studio for business websites, e-commerce systems, and custom digital products. | `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` | [Source](https://github.com/Taoshif1/Taoshiflex-Studio) · [Live](https://taoshiflexstudio.me) |
+| **Taoshiflex Studio** | My web design and development studio for business websites, e-commerce systems and custom digital products. | `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` | [Source](https://github.com/Taoshif1/Taoshiflex-Studio) · [Live](https://taoshiflexstudio.me) |
 | **RedFlint** | A full-stack menswear storefront with authentication, product and inventory management, checkout, order tracking, customer tools, and an admin dashboard. | `React` `Node.js` `Express` `MongoDB` `Firebase` | [Client](https://github.com/Taoshif1/RedFlint-client) · [Server](https://github.com/Taoshif1/RedFlint-server) · [Live](https://red-flint-client.vercel.app/) |
 | **Kotha's Aura** | A full-stack women's lifestyle e-commerce experience with a luxury-focused interface and production backend. | `React` `Node.js` `Express` `MongoDB` | [Client](https://github.com/Taoshif1/kothas-Aura-Client) · [Server](https://github.com/Taoshif1/kothas-Aura-Server) |
 | **Flocka** | A motion-heavy digital agency showcase using advanced frontend animation and 3D graphics. | `React` `GSAP` `Framer Motion` `Three.js` | [Source](https://github.com/Taoshif1/JT1-Flocka) |
