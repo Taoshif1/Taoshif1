@@ -68,4 +68,4 @@ I am a Computer Science and Engineering student at East West University in Bangl
 
 For websites, e-commerce systems, custom web applications or development work:
 
-[Taoshiflex Studio](https://taoshiflexstudio.me) · [Portfolio](https://webdevportfolio-three.vercel.app) · [GitHub](https://github.com/Taoshif1) · [LinkedIn](https://www.linkedin.com/in/taoshif1/) · [Email](mailto:taoshif2@gmail.com)
+[Taoshiflex Studio](https://taoshiflexstudio.me) · [Portfolio](https://webdevportfolio-three.vercel.app) · [LinkedIn](https://www.linkedin.com/in/taoshif1/) · [Email](mailto:taoshif2@gmail.com)
