@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=32&amp;lines=Software+Engineer;Full-Stack+Developer;Product+Builder" alt="Software Engineer, Full-Stack Developer, Product Builder, Taoshiflex" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=32&amp;lines=Software+Engineer;Full-Stack+Developer;Product+Builder;Taoshiflex" alt="Software Engineer, Full-Stack Developer, Product Builder, Taoshiflex" />
 </p>
 
 <p align="center">
