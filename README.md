@@ -26,7 +26,7 @@
 
 ## About
 
-I am a Computer Science and Engineering student at East West University in Bangladesh, focused on software engineering and full-stack product development. I work primarily with JavaScript and TypeScript, building complete web systems from user interfaces to APIs and data layers. I am the founder of **[Taoshiflex Studio](https://taoshiflexstudio.me)**, where I build websites, e-commerce systems & custom digital products.
+I am a Computer Science and Engineering student at East West University in Bangladesh, focused on software engineering and full-stack product development. I work primarily with JavaScript & TypeScript, building complete web systems from user interfaces to APIs and data layers. I am the founder of **[Taoshiflex Studio](https://taoshiflexstudio.me)**, where I build websites, e-commerce systems & custom digital products.
 
 ## Featured Work
 
