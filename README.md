@@ -41,7 +41,7 @@ I am a Computer Science & Engineering student at East West University in Banglad
 
 - Growing Taoshiflex Studio & working with real clients
 - Building and refining full-stack product workflows
-- Strengthening TypeScript, software architecture, API & data-layer skills
+- Strengthening TypeScript, software architecture, API & data layer skills
 - Applying computer science fundamentals through university work & practical projects
 
 ## Core Stack
